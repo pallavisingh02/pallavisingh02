@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm aspiring to become a skilled data analyst. Her
 
 ## Let's Connect
 
-- LinkedIn: [Pallavi Singh](www.linkedin.com/in/
-pallavi-singh-b948082a0)
+-  LinkedIn:[Pallavi Singh](https://www.linkedin.com/in/pallavi-singh-b948082a0)
+
 - Email: infotechsingh02@gmail.com
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
